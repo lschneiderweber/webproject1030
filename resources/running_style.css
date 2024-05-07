@@ -1,0 +1,43 @@
+/* #468BA6 - BLUE
+#F29A2E - ORANGE
+#FDF0E0 - LT ORANGE BG COLOR
+#1D4859 - DRK BLUE CONTRAST
+#593814 - COMP CONTRAST BROWN
+*/
+
+body {
+  background-color: #FDF0E0;
+  padding: 0 0 25px 24px;
+}
+
+a {
+  color: #593814;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #1D4859;
+}
+
+h1, h2 {
+  color: #1D4859;
+}
+h1 {
+  text-align: center;
+}
+p.picture {
+  text-align: center;
+}
+p, li, table {
+  font-size: 1.2em;
+}
+th, td {
+  border: #468BA6 solid 2.5px;
+  padding: 8px;
+}
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right:auto;
+  text-align: center;
+}

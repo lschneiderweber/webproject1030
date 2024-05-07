@@ -1,0 +1,52 @@
+/*
+white: #FFFFFF
+accent 1 maroon: #7C3C3C
+accent 2 teal: #2F6160
+*/
+body {
+  Padding: 100px 40px 100px 80px;
+  font-size: 1.6em;
+}
+h1 {
+  text-align: center;
+}
+h1, h2, h3 {
+  color: #7C3C3C;
+}
+
+td, th {
+  border: #2F6160 ridge 1.75px;
+  Padding: 5px 10px 5px 10px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+a {
+  color: #7C3C3C;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2F6160
+}
+
+p.fancy {
+  background: #7C3C3C;
+  color: #FFFFFF;
+  width: 400px;
+  padding: 25px 50px 25px 50px;
+  border: double #2F6160 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div {
+  background: #7C3C3C;
+  width: 646px;
+  Padding: 10px 20px 10px 20px;
+  border: dashed #2F6160 12px;
+  margin-left: 200px;
+}
