@@ -1,0 +1,83 @@
+/*
+Darkest: #31200E
+Lightest: #e8e4de
+Pink: #ee1979
+Purple: #401d5e
+Yellow: #eda606
+dark green: #304121
+light green: #68c818
+blue: #0771a4
+lilac: #9b3d83
+*/
+
+body {
+  background-color: #e8e4de;
+  margin: 100px 75px 0 75px;
+  font-size: 1.25em;
+  color: #31200E;
+}
+
+h1, h2, h3 {
+  color: #304121;
+  text-align: center;
+}
+
+div.me {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #eda606;
+  width: 384px;
+  padding: 10px 20px 10px 20px;
+
+}
+
+p {
+  width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th, td {
+  border: #0771a4 solid 1.25px;
+  color: #401d5e;
+  padding: 5px 10px 5px 10px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.parent {
+	text-align: center;
+	}
+
+div.roo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #eda606;
+  width: 814px;
+  padding: 10px 20px 10px 20px;
+}
+
+ol {
+	display: inline-block;
+	text-align: left;
+	}
+
+a {
+  color: #ee1979;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #9b3d83;
+}
+
+p.last {
+  text-align: center;
+}
